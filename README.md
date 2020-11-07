@@ -1,10 +1,16 @@
 # GMMCD_BGS
 An official repository for "Background subtraction based on Gaussian mixture models using color and depth information".
 
+![Examplar of BGS results](fig/demo_ex.jpg)
+
 # Progress
 Now I have been converting an original visual C/C++ implementation into Python classes.
 
+
 # Dataset
+
+![Examplar of our dataset](fig/dataset_ex.jpg)
+
 
 ## References
 
